@@ -85,6 +85,7 @@ The solutions are grouped by **problem number ranges** for easy navigation.
 | 2176 | [way_01](2001-3000/leet_code_2176_way_01.py) |
 | 2179 | [way_01](2001-3000/leet_code_2179_way_01.py) |
 | 2182 | [way_01](2001-3000/leet_code_2182_way_01.py) <br> [way_02](2001-3000/leet_code_2182_way_02.py) <br> [way_03](2001-3000/leet_code_2182_way_03.py) |
+| 2197 | [way_01](2001-3000/leet_code_2197_way_01.py) <br> [way_02](2001-3000/leet_code_2197_way_02.py) <br> [way_03](2001-3000/leet_code_2197_way_03.py) |
 | 2206 | [way_01](2001-3000/leet_code_2206_way_01.py) |
 | 2226 | [way_01](2001-3000/leet_code_2226_way_01.py) |
 | 2264 | [way_01](2001-3000/leet_code_2264_way_01.py) |

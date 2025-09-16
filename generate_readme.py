@@ -14,14 +14,17 @@ def generate_markdown():
     md_lines.append("The solutions are grouped by **problem number ranges** for easy navigation.\n\n")
     md_lines.append("---\n")
 
+    total_problems = set()  # track unique problem numbers
+
+    list_problem = []
     for folder in FOLDERS:
         if not os.path.exists(folder):
             continue
 
-        md_lines.append(f"## 📂 {folder}\n\n")
+        list_problem.append(f"## 📂 {folder}\n\n")
         files = sorted(f for f in os.listdir(folder) if f.endswith(".py"))
         if not files:
-            md_lines.append("_No solutions yet in this range._\n\n")
+            list_problem.append("_No solutions yet in this range._\n\n")
             continue
 
         # Group by problem number
@@ -32,17 +35,30 @@ def generate_markdown():
                 problem_number = match.group(1)
                 way = match.group(2) or ""  # could be "way_01"
                 problems[problem_number].append((way, file))
+                total_problems.add(problem_number)  # count unique problem numbers
             else:
                 problems[file] = [("", file)]  # fallback if naming is different
+                total_problems.add(file)  # still count it as one "problem"
 
-        md_lines.append("| Problem Number | Solutions |\n")
-        md_lines.append("|---------------|-----------|\n")
+
+        list_problem.append("| Problem Number | Solutions |\n")
+        list_problem.append("|---------------|-----------|\n")
 
         for problem_number, variants in sorted(problems.items(), key=lambda x: int(x[0])):
             links = " <br> ".join(f"[{way or 'solution'}]({folder}/{file})" for way, file in variants)
-            md_lines.append(f"| {problem_number} | {links} |\n")
+            list_problem.append(f"| {problem_number} | {links} |\n")
 
-        md_lines.append("\n")
+        list_problem.append("\n")
+
+    # Add total count section
+    md_lines.append("---\n")
+    md_lines.append(f"### 📊 Total Problems Solved: **{len(total_problems)}**\n\n")
+    md_lines.append("---\n")
+    md_lines.append("---\n")
+    md_lines.extend(list_problem)
+    md_lines.append("---\n")
+    md_lines.append("---\n")
+
 
     return "".join(md_lines)
 

@@ -3,6 +3,11 @@ This repository contains my solutions to various [LeetCode](https://leetcode.com
 The solutions are grouped by **problem number ranges** for easy navigation.
 
 ---
+---
+### 📊 Total Problems Solved: **135**
+
+---
+---
 ## 📂 0-1000
 
 | Problem Number | Solutions |
@@ -158,3 +163,5 @@ The solutions are grouped by **problem number ranges** for easy navigation.
 | 3487 | [way_01](3001-4000/leet_code_3487_way_01.py) |
 | 3541 | [way_01](3001-4000/leet_code_3541_way_01.py) <br> [way_02](3001-4000/leet_code_3541_way_02.py) |
 
+---
+---

@@ -4,7 +4,7 @@ The solutions are grouped by **problem number ranges** for easy navigation.
 
 ---
 ---
-### 📊 Total Problems Solved: **135**
+### 📊 Total Problems Solved: **137**
 
 ---
 ---
@@ -98,6 +98,7 @@ The solutions are grouped by **problem number ranges** for easy navigation.
 | 2302 | [way_01](2001-3000/leet_code_2302_way_01.py) <br> [way_02](2001-3000/leet_code_2302_way_02.py) |
 | 2327 | [way_01](2001-3000/leet_code_2327_way_01.py) <br> [way_02](2001-3000/leet_code_2327_way_02.py) <br> [way_03](2001-3000/leet_code_2327_way_03.py) |
 | 2338 | [way_01](2001-3000/leet_code_2338_way_01.py) |
+| 2353 | [way_01](2001-3000/leet_code_2353_way_01.py) <br> [way_02](2001-3000/leet_code_2353_way_02.py) |
 | 2401 | [way_01](2001-3000/leet_code_2401_way_01.py) |
 | 2415 | [way_01](2001-3000/leet_code_2415_way_01.py) <br> [way_02](2001-3000/leet_code_2415_way_02.py) |
 | 2429 | [way_01](2001-3000/leet_code_2429_way_01.py) |
@@ -157,6 +158,7 @@ The solutions are grouped by **problem number ranges** for easy navigation.
 | 3375 | [way_01](3001-4000/leet_code_3375_way_01.py) <br> [way_02](3001-4000/leet_code_3375_way_02.py) |
 | 3394 | [way_01](3001-4000/leet_code_3394_way_01.py) |
 | 3396 | [way_01](3001-4000/leet_code_3396_way_01.py) |
+| 3408 | [way_01](3001-4000/leet_code_3408_way_01.py) |
 | 3439 | [way_01](3001-4000/leet_code_3439_way_01.py) <br> [way_02](3001-4000/leet_code_3439_way_02.py) |
 | 3442 | [way_01](3001-4000/leet_code_3442_way_01.py) |
 | 3446 | [way_01](3001-4000/leet_code_3446_way_01.py) |

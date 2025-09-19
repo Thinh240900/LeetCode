@@ -4,7 +4,7 @@ The solutions are grouped by **problem number ranges** for easy navigation.
 
 ---
 ---
-### 📊 Total Problems Solved: **137**
+### 📊 Total Problems Solved: **138**
 
 ---
 ---
@@ -162,6 +162,7 @@ The solutions are grouped by **problem number ranges** for easy navigation.
 | 3439 | [way_01](3001-4000/leet_code_3439_way_01.py) <br> [way_02](3001-4000/leet_code_3439_way_02.py) |
 | 3442 | [way_01](3001-4000/leet_code_3442_way_01.py) |
 | 3446 | [way_01](3001-4000/leet_code_3446_way_01.py) |
+| 3484 | [way_01](3001-4000/leet_code_3484_way_01.py) <br> [way_02](3001-4000/leet_code_3484_way_02.py) |
 | 3487 | [way_01](3001-4000/leet_code_3487_way_01.py) |
 | 3541 | [way_01](3001-4000/leet_code_3541_way_01.py) <br> [way_02](3001-4000/leet_code_3541_way_02.py) |
 

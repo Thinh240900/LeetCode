@@ -4,7 +4,7 @@ The solutions are grouped by **problem number ranges** for easy navigation.
 
 ---
 ---
-### 📊 Total Problems Solved: **139**
+### 📊 Total Problems Solved: **141**
 
 ---
 ---
@@ -67,6 +67,7 @@ The solutions are grouped by **problem number ranges** for easy navigation.
 | 1768 | [way_01](1001-2000/leet_code_1768_way_01.py) |
 | 1769 | [way_01](1001-2000/leet_code_1769_way_01.py) <br> [way_02](1001-2000/leet_code_1769_way_02.py) |
 | 1792 | [way_01](1001-2000/leet_code_1792_way_01.py) <br> [way_02](1001-2000/leet_code_1792_way_02.py) |
+| 1912 | [way_01](1001-2000/leet_code_1912_way_01.py) <br> [way_02](1001-2000/leet_code_1912_way_02.py) |
 | 1931 | [way_01](1001-2000/leet_code_1931_way_01.py) |
 | 1935 | [way_01](1001-2000/leet_code_1935_way_01.py) <br> [way_02](1001-2000/leet_code_1935_way_02.py) |
 | 1976 | [way_01](1001-2000/leet_code_1976_way_01.py) |
@@ -134,6 +135,7 @@ The solutions are grouped by **problem number ranges** for easy navigation.
 
 | Problem Number | Solutions |
 |---------------|-----------|
+| 3005 | [way_01](3001-4000/leet_code_3005_way_01.py) |
 | 3021 | [way_01](3001-4000/leet_code_3021_way_01.py) |
 | 3025 | [way_01](3001-4000/leet_code_3025_way_01.py) |
 | 3042 | [way_01](3001-4000/leet_code_3042_way_01.py) |
@@ -164,7 +166,7 @@ The solutions are grouped by **problem number ranges** for easy navigation.
 | 3446 | [way_01](3001-4000/leet_code_3446_way_01.py) |
 | 3484 | [way_01](3001-4000/leet_code_3484_way_01.py) <br> [way_02](3001-4000/leet_code_3484_way_02.py) |
 | 3487 | [way_01](3001-4000/leet_code_3487_way_01.py) |
-| 3508 | [way_01](3001-4000/leet_code_3508_way_01.py) <br> [way_02](3001-4000/leet_code_3508_way_02.py) <br> [way_03](3001-4000/leet_code_3508_way_03.py) |
+| 3508 | [way_01](3001-4000/leet_code_3508_way_01.py) <br> [way_02](3001-4000/leet_code_3508_way_02.py) <br> [way_03](3001-4000/leet_code_3508_way_03.py) <br> [way_04](3001-4000/leet_code_3508_way_04.py) |
 | 3541 | [way_01](3001-4000/leet_code_3541_way_01.py) <br> [way_02](3001-4000/leet_code_3541_way_02.py) |
 
 ---

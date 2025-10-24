@@ -4,7 +4,7 @@ The solutions are grouped by **problem number ranges** for easy navigation.
 
 ---
 ---
-### 📊 Total Problems Solved: **144**
+### 📊 Total Problems Solved: **170**
 
 ---
 ---
@@ -13,6 +13,7 @@ The solutions are grouped by **problem number ranges** for easy navigation.
 | Problem Number | Solutions |
 |---------------|-----------|
 | 02 | [solution](0-1000/leet_code_02.py) |
+| 11 | [way_01](0-1000/leet_code_11_way_01.py) <br> [way_02](0-1000/leet_code_11_way_02.py) |
 | 38 | [way_01](0-1000/leet_code_38_way_01.py) |
 | 73 | [way_01](0-1000/leet_code_73_way_01.py) |
 | 75 | [way_01](0-1000/leet_code_75_way_01.py) <br> [way_02](0-1000/leet_code_75_way_02.py) |
@@ -23,24 +24,30 @@ The solutions are grouped by **problem number ranges** for easy navigation.
 | 342 | [way_01](0-1000/leet_code_342_way_01.py) |
 | 368 | [way_01](0-1000/leet_code_368_way_01.py) |
 | 386 | [way_01](0-1000/leet_code_386_way_01.py) |
+| 407 | [way_01](0-1000/leet_code_407_way_01.py) |
 | 416 | [way_01_time_limit](0-1000/leet_code_416_way_01_time_limit.py) <br> [way_02](0-1000/leet_code_416_way_02.py) <br> [way_03](0-1000/leet_code_416_way_03.py) |
+| 417 | [way_01](0-1000/leet_code_417_way_01.py) |
 | 440 | [way_01](0-1000/leet_code_440_way_01.py) |
 | 494 | [way_01](0-1000/leet_code_494_way_01.py) <br> [way_02](0-1000/leet_code_494_way_02.py) <br> [way_03](0-1000/leet_code_494_way_03.py) <br> [way_04](0-1000/leet_code_494_way_04.py) |
 | 498 | [way_01](0-1000/leet_code_498_way_01.py) |
 | 515 | [way_01](0-1000/leet_code_515_way_01.py) |
 | 594 | [way_01](0-1000/leet_code_594_way_01.py) |
+| 611 | [way_01](0-1000/leet_code_611_way_01.py) <br> [way_02](0-1000/leet_code_611_way_02.py) |
 | 679 | [way_01](0-1000/leet_code_679_way_01.py) |
 | 689 | [way_01](0-1000/leet_code_689_way_01.py) |
 | 763 | [way_01](0-1000/leet_code_763_way_01.py) <br> [way_02](0-1000/leet_code_763_way_02.py) |
 | 769 | [way_01](0-1000/leet_code_769_way_01.py) <br> [way_02](0-1000/leet_code_769_way_02.py) |
+| 778 | [way_01](0-1000/leet_code_778_way_01.py) <br> [way_02](0-1000/leet_code_778_way_02.py) |
 | 781 | [way_01](0-1000/leet_code_781_way_01.py) |
 | 790 | [way_01](0-1000/leet_code_790_way_01.py) |
+| 812 | [way_01](0-1000/leet_code_812_way_01.py) |
 | 837 | [way_01](0-1000/leet_code_837_way_01.py) <br> [way_02](0-1000/leet_code_837_way_02.py) |
 | 838 | [way_01](0-1000/leet_code_838_way_01.py) <br> [way_02](0-1000/leet_code_838_way_02.py) <br> [way_03](0-1000/leet_code_838_way_03.py) |
 | 873 | [way_01](0-1000/leet_code_873_way_01.py) |
 | 904 | [way_01](0-1000/leet_code_904_way_01.py) <br> [way_02](0-1000/leet_code_904_way_02.py) |
 | 916 | [way_01](0-1000/leet_code_916_way_01.py) |
 | 966 | [way_01](0-1000/leet_code_966_way_01.py) |
+| 976 | [way_01](0-1000/leet_code_976_way_01.py) |
 
 ## 📂 1001-2000
 
@@ -49,6 +56,7 @@ The solutions are grouped by **problem number ranges** for easy navigation.
 | 1007 | [way_01](1001-2000/leet_code_1007_way_01.py) <br> [way_02](1001-2000/leet_code_1007_way_02.py) |
 | 1014 | [way_01](1001-2000/leet_code_1014_way_01.py) <br> [way_02](1001-2000/leet_code_1014_way_02.py) <br> [way_03](1001-2000/leet_code_1014_way_03.py) |
 | 1028 | [way_01](1001-2000/leet_code_1028_way_01.py) |
+| 1039 | [way_01](1001-2000/leet_code_1039_way_01.py) <br> [way_02](1001-2000/leet_code_1039_way_02.py) <br> [way_03](1001-2000/leet_code_1039_way_03.py) |
 | 1092 | [way_01](1001-2000/leet_code_1092_way_01.py) <br> [way_02](1001-2000/leet_code_1092_way_02.py) <br> [way_03](1001-2000/leet_code_1092_way_03.py) |
 | 1123 | [way_01](1001-2000/leet_code_1123_way_01.py) |
 | 1128 | [way_01](1001-2000/leet_code_1128_way_01.py) |
@@ -61,9 +69,12 @@ The solutions are grouped by **problem number ranges** for easy navigation.
 | 1400 | [way_01](1001-2000/leet_code_1400_way_01.py) |
 | 1408 | [way_01](1001-2000/leet_code_1408_way_01.py) <br> [way_02](1001-2000/leet_code_1408_way_02.py) |
 | 1475 | [way_01](1001-2000/leet_code_1475_way_01.py) <br> [way_02](1001-2000/leet_code_1475_way_02.py) <br> [way_03](1001-2000/leet_code_1475_way_03.py) <br> [way_04](1001-2000/leet_code_1475_way_04.py) |
+| 1488 | [way_01](1001-2000/leet_code_1488_way_01.py) <br> [way_02](1001-2000/leet_code_1488_way_02.py) |
 | 1493 | [way_01](1001-2000/leet_code_1493_way_01.py) <br> [way_02](1001-2000/leet_code_1493_way_02.py) <br> [way_03](1001-2000/leet_code_1493_way_03.py) <br> [way_04](1001-2000/leet_code_1493_way_04.py) |
 | 1504 | [way_01](1001-2000/leet_code_1504_way_01.py) <br> [way_02](1001-2000/leet_code_1504_way_02.py) <br> [way_03](1001-2000/leet_code_1504_way_03.py) |
+| 1518 | [way_01](1001-2000/leet_code_1518_way_01.py) <br> [way_02](1001-2000/leet_code_1518_way_02.py) |
 | 1534 | [way_01](1001-2000/leet_code_1534_way_01.py) |
+| 1625 | [way_01](1001-2000/leet_code_1625_way_01.py) <br> [way_02](1001-2000/leet_code_1625_way_02.py) |
 | 1639 | [way_01_WHY_NOT_WORK](1001-2000/leet_code_1639_way_01_WHY_NOT_WORK.py) |
 | 1733 | [way_01](1001-2000/leet_code_1733_way_01.py) <br> [way_02](1001-2000/leet_code_1733_way_02.py) <br> [way_03](1001-2000/leet_code_1733_way_03.py) |
 | 1751 | [way_01](1001-2000/leet_code_1751_way_01.py) |
@@ -81,6 +92,7 @@ The solutions are grouped by **problem number ranges** for easy navigation.
 |---------------|-----------|
 | 2016 | [way_01](2001-3000/leet_code_2016_way_01.py) |
 | 2033 | [way_01](2001-3000/leet_code_2033_way_01.py) |
+| 2048 | [way_01](2001-3000/leet_code_2048_way_01.py) <br> [way_02](2001-3000/leet_code_2048_way_02.py) |
 | 2071 | [way_01](2001-3000/leet_code_2071_way_01.py) |
 | 2094 | [way_01](2001-3000/leet_code_2094_way_01.py) |
 | 2099 | [way_01](2001-3000/leet_code_2099_way_01.py) <br> [way_02](2001-3000/leet_code_2099_way_02.py) |
@@ -96,9 +108,12 @@ The solutions are grouped by **problem number ranges** for easy navigation.
 | 2182 | [way_01](2001-3000/leet_code_2182_way_01.py) <br> [way_02](2001-3000/leet_code_2182_way_02.py) <br> [way_03](2001-3000/leet_code_2182_way_03.py) |
 | 2197 | [way_01](2001-3000/leet_code_2197_way_01.py) <br> [way_02](2001-3000/leet_code_2197_way_02.py) <br> [way_03](2001-3000/leet_code_2197_way_03.py) |
 | 2206 | [way_01](2001-3000/leet_code_2206_way_01.py) |
+| 2221 | [way_01](2001-3000/leet_code_2221_way_01.py) <br> [way_02](2001-3000/leet_code_2221_way_02.py) |
 | 2226 | [way_01](2001-3000/leet_code_2226_way_01.py) |
 | 2264 | [way_01](2001-3000/leet_code_2264_way_01.py) |
+| 2273 | [way_01](2001-3000/leet_code_2273_way_01.py) <br> [way_02](2001-3000/leet_code_2273_way_02.py) |
 | 2294 | [way_01](2001-3000/leet_code_2294_way_01.py) |
+| 2300 | [way_01](2001-3000/leet_code_2300_way_01.py) <br> [way_02](2001-3000/leet_code_2300_way_02.py) |
 | 2302 | [way_01](2001-3000/leet_code_2302_way_01.py) <br> [way_02](2001-3000/leet_code_2302_way_02.py) |
 | 2327 | [way_01](2001-3000/leet_code_2327_way_01.py) <br> [way_02](2001-3000/leet_code_2327_way_02.py) <br> [way_03](2001-3000/leet_code_2327_way_03.py) |
 | 2338 | [way_01](2001-3000/leet_code_2338_way_01.py) |
@@ -116,6 +131,7 @@ The solutions are grouped by **problem number ranges** for easy navigation.
 | 2566 | [way_01](2001-3000/leet_code_2566_way_01.py) |
 | 2570 | [way_01](2001-3000/leet_code_2570_way_01.py) |
 | 2594 | [way_01](2001-3000/leet_code_2594_way_01.py) <br> [way_02](2001-3000/leet_code_2594_way_02.py) <br> [way_03](2001-3000/leet_code_2594_way_03.py) |
+| 2598 | [way_01](2001-3000/leet_code_2598_way_01.py) <br> [way_02](2001-3000/leet_code_2598_way_02.py) <br> [way_03](2001-3000/leet_code_2598_way_03.py) |
 | 2616 | [way_01](2001-3000/leet_code_2616_way_01.py) |
 | 2685 | [way_01](2001-3000/leet_code_2685_way_01.py) <br> [way_02](2001-3000/leet_code_2685_way_02.py) <br> [way_03](2001-3000/leet_code_2685_way_03.py) <br> [way_04](2001-3000/leet_code_2685_way_04.py) |
 | 2749 | [way_01](2001-3000/leet_code_2749_way_01.py) |
@@ -143,7 +159,10 @@ The solutions are grouped by **problem number ranges** for easy navigation.
 | 3025 | [way_01](3001-4000/leet_code_3025_way_01.py) |
 | 3042 | [way_01](3001-4000/leet_code_3042_way_01.py) |
 | 3068 | [way_01](3001-4000/leet_code_3068_way_01.py) <br> [way_02](3001-4000/leet_code_3068_way_02.py) <br> [way_03](3001-4000/leet_code_3068_way_03.py) |
+| 3100 | [way_01](3001-4000/leet_code_3100_way_01.py) |
+| 3147 | [way_01](3001-4000/leet_code_3147_way_01.py) <br> [way_02](3001-4000/leet_code_3147_way_02.py) <br> [way_03](3001-4000/leet_code_3147_way_03.py) |
 | 3169 | [way_01](3001-4000/leet_code_3169_way_01.py) <br> [way_02](3001-4000/leet_code_3169_way_02.py) |
+| 3186 | [way_01](3001-4000/leet_code_3186_way_01.py) <br> [way_02](3001-4000/leet_code_3186_way_02.py) |
 | 3191 | [way_01](3001-4000/leet_code_3191_way_01.py) <br> [way_02](3001-4000/leet_code_3191_way_02.py) |
 | 3195 | [way_01](3001-4000/leet_code_3195_way_01.py) |
 | 3201 | [way_01](3001-4000/leet_code_3201_way_01.py) |
@@ -155,6 +174,9 @@ The solutions are grouped by **problem number ranges** for easy navigation.
 | 3341 | [way_01](3001-4000/leet_code_3341_way_01.py) <br> [way_02](3001-4000/leet_code_3341_way_02.py) |
 | 3342 | [way_01](3001-4000/leet_code_3342_way_01.py) <br> [way_02](3001-4000/leet_code_3342_way_02.py) <br> [way_03](3001-4000/leet_code_3342_way_03.py) |
 | 3343 | [way_01](3001-4000/leet_code_3343_way_01.py) <br> [way_02](3001-4000/leet_code_3343_way_02.py) |
+| 3346 | [way_01](3001-4000/leet_code_3346_way_01.py) <br> [way_02](3001-4000/leet_code_3346_way_02.py) |
+| 3349 | [way_01](3001-4000/leet_code_3349_way_01.py) |
+| 3350 | [way_01](3001-4000/leet_code_3350_way_01.py) <br> [way_02](3001-4000/leet_code_3350_way_02.py) <br> [way_03](3001-4000/leet_code_3350_way_03.py) |
 | 3355 | [way_01](3001-4000/leet_code_3355_way_01.py) <br> [way_02](3001-4000/leet_code_3355_way_02.py) |
 | 3356 | [way_01](3001-4000/leet_code_3356_way_01.py) |
 | 3362 | [way_01](3001-4000/leet_code_3362_way_01.py) <br> [way_02](3001-4000/leet_code_3362_way_02.py) |
@@ -163,13 +185,17 @@ The solutions are grouped by **problem number ranges** for easy navigation.
 | 3375 | [way_01](3001-4000/leet_code_3375_way_01.py) <br> [way_02](3001-4000/leet_code_3375_way_02.py) |
 | 3394 | [way_01](3001-4000/leet_code_3394_way_01.py) |
 | 3396 | [way_01](3001-4000/leet_code_3396_way_01.py) |
+| 3397 | [way_01](3001-4000/leet_code_3397_way_01.py) <br> [way_02](3001-4000/leet_code_3397_way_02.py) |
 | 3408 | [way_01](3001-4000/leet_code_3408_way_01.py) |
 | 3439 | [way_01](3001-4000/leet_code_3439_way_01.py) <br> [way_02](3001-4000/leet_code_3439_way_02.py) |
 | 3442 | [way_01](3001-4000/leet_code_3442_way_01.py) |
 | 3446 | [way_01](3001-4000/leet_code_3446_way_01.py) |
+| 3461 | [way_01](3001-4000/leet_code_3461_way_01.py) |
 | 3484 | [way_01](3001-4000/leet_code_3484_way_01.py) <br> [way_02](3001-4000/leet_code_3484_way_02.py) |
 | 3487 | [way_01](3001-4000/leet_code_3487_way_01.py) |
+| 3494 | [way_01](3001-4000/leet_code_3494_way_01.py) |
 | 3508 | [way_01](3001-4000/leet_code_3508_way_01.py) <br> [way_02](3001-4000/leet_code_3508_way_02.py) <br> [way_03](3001-4000/leet_code_3508_way_03.py) <br> [way_04](3001-4000/leet_code_3508_way_04.py) |
+| 3539 | [way_01](3001-4000/leet_code_3539_way_01.py) |
 | 3541 | [way_01](3001-4000/leet_code_3541_way_01.py) <br> [way_02](3001-4000/leet_code_3541_way_02.py) |
 
 ---

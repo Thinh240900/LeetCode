@@ -4,7 +4,7 @@ The solutions are grouped by **problem number ranges** for easy navigation.
 
 ---
 ---
-### 📊 Total Problems Solved: **170**
+### 📊 Total Problems Solved: **173**
 
 ---
 ---
@@ -76,6 +76,7 @@ The solutions are grouped by **problem number ranges** for easy navigation.
 | 1534 | [way_01](1001-2000/leet_code_1534_way_01.py) |
 | 1625 | [way_01](1001-2000/leet_code_1625_way_01.py) <br> [way_02](1001-2000/leet_code_1625_way_02.py) |
 | 1639 | [way_01_WHY_NOT_WORK](1001-2000/leet_code_1639_way_01_WHY_NOT_WORK.py) |
+| 1716 | [way_01](1001-2000/leet_code_1716_way_01.py) <br> [way_02](1001-2000/leet_code_1716_way_02.py) <br> [way_03](1001-2000/leet_code_1716_way_03.py) |
 | 1733 | [way_01](1001-2000/leet_code_1733_way_01.py) <br> [way_02](1001-2000/leet_code_1733_way_02.py) <br> [way_03](1001-2000/leet_code_1733_way_03.py) |
 | 1751 | [way_01](1001-2000/leet_code_1751_way_01.py) |
 | 1768 | [way_01](1001-2000/leet_code_1768_way_01.py) |
@@ -92,12 +93,14 @@ The solutions are grouped by **problem number ranges** for easy navigation.
 |---------------|-----------|
 | 2016 | [way_01](2001-3000/leet_code_2016_way_01.py) |
 | 2033 | [way_01](2001-3000/leet_code_2033_way_01.py) |
+| 2043 | [way_01](2001-3000/leet_code_2043_way_01.py) <br> [way_02](2001-3000/leet_code_2043_way_02.py) |
 | 2048 | [way_01](2001-3000/leet_code_2048_way_01.py) <br> [way_02](2001-3000/leet_code_2048_way_02.py) |
 | 2071 | [way_01](2001-3000/leet_code_2071_way_01.py) |
 | 2094 | [way_01](2001-3000/leet_code_2094_way_01.py) |
 | 2099 | [way_01](2001-3000/leet_code_2099_way_01.py) <br> [way_02](2001-3000/leet_code_2099_way_02.py) |
 | 2115 | [way_01](2001-3000/leet_code_2115_way_01.py) <br> [way_02](2001-3000/leet_code_2115_way_02.py) <br> [way_03](2001-3000/leet_code_2115_way_03.py) <br> [way_04](2001-3000/leet_code_2115_way_04.py) <br> [way_05](2001-3000/leet_code_2115_way_05.py) |
 | 2116 | [way_01](2001-3000/leet_code_2116_way_01.py) <br> [way_02](2001-3000/leet_code_2116_way_02.py) |
+| 2125 | [way_01](2001-3000/leet_code_2125_way_01.py) <br> [way_02](2001-3000/leet_code_2125_way_02.py) |
 | 2131 | [way_01](2001-3000/leet_code_2131_way_01.py) |
 | 2138 | [way_01](2001-3000/leet_code_2138_way_01.py) |
 | 2145 | [way_01](2001-3000/leet_code_2145_way_01.py) <br> [way_02](2001-3000/leet_code_2145_way_02.py) |
